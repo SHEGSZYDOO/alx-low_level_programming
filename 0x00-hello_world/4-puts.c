@@ -1,1 +1,2 @@
-Read this files
+#!/bin/bash
+^
