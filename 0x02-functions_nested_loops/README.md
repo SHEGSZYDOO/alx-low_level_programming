@@ -21,3 +21,5 @@
 10 - Write a function that adds two integers and returns the result. 
 
 11 - Write a function that prints all natural numbers from n to 98, followed by a new line.
+
+13 - Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
