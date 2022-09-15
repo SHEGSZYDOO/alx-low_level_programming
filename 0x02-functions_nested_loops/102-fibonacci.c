@@ -19,6 +19,5 @@ if (inc == 49)
 printf("\n");
 else
 printf(", ");
-
 }
 
